@@ -1,0 +1,823 @@
+[
+  {
+    "Id": "3",
+    "Name": "Petra Ainger",
+    "Email": "PetraAinger@ueh.edu.vn",
+    "PhoneNumber": "\u002B84 6631968082",
+    "Birthday": "9/22/2005",
+    "Gender": "Female",
+    "GPA": 3.82,
+    "DRL": 51,
+    "SchoolYear": "K48",
+    "ClassID": "IB002",
+    "DepartmentID": "4",
+    "CourseIDs": [
+      "OOP",
+      "ME",
+      "CN"
+    ]
+  },
+  {
+    "Id": "4",
+    "Name": "Emily Idiens",
+    "Email": "EmilyIdiens@ueh.edu.vn",
+    "PhoneNumber": "\u002B84 9141172672",
+    "Birthday": "2/28/2004",
+    "Gender": "Female",
+    "GPA": 3.91,
+    "DRL": 97,
+    "SchoolYear": "K49",
+    "ClassID": "IT002",
+    "DepartmentID": "2",
+    "CourseIDs": [
+      "OOP",
+      "PEC"
+    ]
+  },
+  {
+    "Id": "5",
+    "Name": "Ailey Treherne",
+    "Email": "AileyTreherne@ueh.edu.vn",
+    "PhoneNumber": "\u002B84 3017676433",
+    "Birthday": "4/24/2003",
+    "Gender": "Female",
+    "GPA": 3.25,
+    "DRL": 75,
+    "SchoolYear": "K50",
+    "ClassID": "HR001",
+    "DepartmentID": "3",
+    "CourseIDs": [
+      "OOP",
+      "CN"
+    ]
+  },
+  {
+    "Id": "6",
+    "Name": "Reena Trolley",
+    "Email": "ReenaTrolley@ueh.edu.vn",
+    "PhoneNumber": "\u002B84 8049128448",
+    "Birthday": "7/14/2003",
+    "Gender": "Female",
+    "GPA": 2.81,
+    "DRL": 81,
+    "SchoolYear": "K49",
+    "ClassID": "HR001",
+    "DepartmentID": "3",
+    "CourseIDs": [
+      "STA",
+      "CN"
+    ]
+  },
+  {
+    "Id": "7",
+    "Name": "Idelle Grossier",
+    "Email": "IdelleGrossier@ueh.edu.vn",
+    "PhoneNumber": "\u002B84 8693629128",
+    "Birthday": "3/16/2005",
+    "Gender": "Female",
+    "GPA": 3.56,
+    "DRL": 50,
+    "SchoolYear": "K50",
+    "ClassID": "IT002",
+    "DepartmentID": "2",
+    "CourseIDs": [
+      "OOP",
+      "ME",
+      "CN"
+    ]
+  },
+  {
+    "Id": "8",
+    "Name": "Erhard Fontaine",
+    "Email": "ErhardFontaine@ueh.edu.vn",
+    "PhoneNumber": "\u002B84 2917562346",
+    "Birthday": "11/8/2004",
+    "Gender": "Male",
+    "GPA": 3.65,
+    "DRL": 84,
+    "SchoolYear": "K48",
+    "ClassID": "HR001",
+    "DepartmentID": "3",
+    "CourseIDs": [
+      "STA"
+    ]
+  },
+  {
+    "Id": "9",
+    "Name": "Tate Itzhaiek",
+    "Email": "TateItzhaiek@ueh.edu.vn",
+    "PhoneNumber": "\u002B84 7370116329",
+    "Birthday": "6/17/2004",
+    "Gender": "Female",
+    "GPA": 3.73,
+    "DRL": 95,
+    "SchoolYear": "K49",
+    "ClassID": "HR002",
+    "DepartmentID": "3",
+    "CourseIDs": [
+      "STA",
+      "CN"
+    ]
+  },
+  {
+    "Id": "10",
+    "Name": "Evy Sarginson",
+    "Email": "EvySarginson@ueh.edu.vn",
+    "PhoneNumber": "\u002B84 7842917539",
+    "Birthday": "8/15/2006",
+    "Gender": "Female",
+    "GPA": 3.46,
+    "DRL": 78,
+    "SchoolYear": "K50",
+    "ClassID": "HR001",
+    "DepartmentID": "3",
+    "CourseIDs": [
+      "OOP",
+      "CN"
+    ]
+  },
+  {
+    "Id": "11",
+    "Name": "Justin Piccard",
+    "Email": "JustinPiccard@ueh.edu.vn",
+    "PhoneNumber": "\u002B84 4450525736",
+    "Birthday": "5/19/2004",
+    "Gender": "Male",
+    "GPA": 3.46,
+    "DRL": 53,
+    "SchoolYear": "K47",
+    "ClassID": "HR001",
+    "DepartmentID": "3",
+    "CourseIDs": [
+      "OOP"
+    ]
+  },
+  {
+    "Id": "12",
+    "Name": "Tudor Masurel",
+    "Email": "TudorMasurel@ueh.edu.vn",
+    "PhoneNumber": "\u002B84 2935257968",
+    "Birthday": "10/30/2004",
+    "Gender": "Male",
+    "GPA": 3.35,
+    "DRL": 59,
+    "SchoolYear": "K48",
+    "ClassID": "IT002",
+    "DepartmentID": "2",
+    "CourseIDs": [
+      "ME"
+    ]
+  },
+  {
+    "Id": "13",
+    "Name": "Gareth Hixson",
+    "Email": "GarethHixson@ueh.edu.vn",
+    "PhoneNumber": "\u002B84 9244894249",
+    "Birthday": "2/23/2006",
+    "Gender": "Male",
+    "GPA": 3.73,
+    "DRL": 63,
+    "SchoolYear": "K49",
+    "ClassID": "IT001",
+    "DepartmentID": "2",
+    "CourseIDs": [
+      "STA",
+      "PEC",
+      "CN"
+    ]
+  },
+  {
+    "Id": "14",
+    "Name": "Ailee Tomaszewski",
+    "Email": "AileeTomaszewski@ueh.edu.vn",
+    "PhoneNumber": "\u002B84 9282330451",
+    "Birthday": "2/20/2006",
+    "Gender": "Female",
+    "GPA": 3.01,
+    "DRL": 53,
+    "SchoolYear": "K48",
+    "ClassID": "IT002",
+    "DepartmentID": "2",
+    "CourseIDs": [
+      "STA",
+      "CN"
+    ]
+  },
+  {
+    "Id": "15",
+    "Name": "Andria Tomasello",
+    "Email": "AndriaTomasello@ueh.edu.vn",
+    "PhoneNumber": "\u002B84 8985271033",
+    "Birthday": "5/23/2004",
+    "Gender": "Female",
+    "GPA": 3.04,
+    "DRL": 71,
+    "SchoolYear": "K48",
+    "ClassID": "IB002",
+    "DepartmentID": "1",
+    "CourseIDs": [
+      "CN"
+    ]
+  },
+  {
+    "Id": "16",
+    "Name": "Rolando Labro",
+    "Email": "RolandoLabro@ueh.edu.vn",
+    "PhoneNumber": "\u002B84 7722229494",
+    "Birthday": "4/16/2004",
+    "Gender": "Male",
+    "GPA": 3.16,
+    "DRL": 67,
+    "SchoolYear": "K48",
+    "ClassID": "IB002",
+    "DepartmentID": "1",
+    "CourseIDs": [
+      "OOP",
+      "CN"
+    ]
+  },
+  {
+    "Id": "17",
+    "Name": "Donnie Chopping",
+    "Email": "DonnieChopping@ueh.edu.vn",
+    "PhoneNumber": "\u002B84 9014504390",
+    "Birthday": "10/30/2005",
+    "Gender": "Male",
+    "GPA": 3.73,
+    "DRL": 81,
+    "SchoolYear": "K50",
+    "ClassID": "HR001",
+    "DepartmentID": "3",
+    "CourseIDs": [
+      "STA",
+      "ME"
+    ]
+  },
+  {
+    "Id": "18",
+    "Name": "Amabelle Rutt",
+    "Email": "AmabelleRutt@ueh.edu.vn",
+    "PhoneNumber": "\u002B84 9216238930",
+    "Birthday": "1/10/2005",
+    "Gender": "Female",
+    "GPA": 3.5,
+    "DRL": 49,
+    "SchoolYear": "K50",
+    "ClassID": "IT001",
+    "DepartmentID": "2",
+    "CourseIDs": [
+      "OOP",
+      "ME",
+      "PEC"
+    ]
+  },
+  {
+    "Id": "19",
+    "Name": "Gaelan Priden",
+    "Email": "GaelanPriden@ueh.edu.vn",
+    "PhoneNumber": "\u002B84 1044648897",
+    "Birthday": "12/23/2004",
+    "Gender": "Male",
+    "GPA": 2.76,
+    "DRL": 55,
+    "SchoolYear": "K50",
+    "ClassID": "IT002",
+    "DepartmentID": "2",
+    "CourseIDs": [
+      "STA",
+      "PEC",
+      "CN"
+    ]
+  },
+  {
+    "Id": "20",
+    "Name": "Si Tappin",
+    "Email": "SiTappin@ueh.edu.vn",
+    "PhoneNumber": "\u002B84 9604383198",
+    "Birthday": "3/29/2003",
+    "Gender": "Male",
+    "GPA": 2.6,
+    "DRL": 52,
+    "SchoolYear": "K47",
+    "ClassID": "IT002",
+    "DepartmentID": "2",
+    "CourseIDs": [
+      "PEC",
+      "CN"
+    ]
+  },
+  {
+    "Id": "21",
+    "Name": "Windham Ledley",
+    "Email": "WindhamLedley@ueh.edu.vn",
+    "PhoneNumber": "\u002B84 6240924402",
+    "Birthday": "4/26/2003",
+    "Gender": "Male",
+    "GPA": 2.77,
+    "DRL": 46,
+    "SchoolYear": "K48",
+    "ClassID": "HR001",
+    "DepartmentID": "3",
+    "CourseIDs": [
+      "PEC"
+    ]
+  },
+  {
+    "Id": "22",
+    "Name": "Tallia Trenholme",
+    "Email": "TalliaTrenholme@ueh.edu.vn",
+    "PhoneNumber": "\u002B84 1915569788",
+    "Birthday": "5/24/2004",
+    "Gender": "Female",
+    "GPA": 2.71,
+    "DRL": 84,
+    "SchoolYear": "K50",
+    "ClassID": "IT001",
+    "DepartmentID": "2",
+    "CourseIDs": [
+      "STA",
+      "ME"
+    ]
+  },
+  {
+    "Id": "23",
+    "Name": "Wendall Minker",
+    "Email": "WendallMinker@ueh.edu.vn",
+    "PhoneNumber": "\u002B84 7773537873",
+    "Birthday": "1/24/2004",
+    "Gender": "Male",
+    "GPA": 3.97,
+    "DRL": 87,
+    "SchoolYear": "K46",
+    "ClassID": "HR002",
+    "DepartmentID": "3",
+    "CourseIDs": [
+      "PEC"
+    ]
+  },
+  {
+    "Id": "24",
+    "Name": "Clywd MacCook",
+    "Email": "ClywdMacCook@ueh.edu.vn",
+    "PhoneNumber": "\u002B84 9257338221",
+    "Birthday": "9/14/2004",
+    "Gender": "Male",
+    "GPA": 2.93,
+    "DRL": 48,
+    "SchoolYear": "K47",
+    "ClassID": "IB001",
+    "DepartmentID": "1",
+    "CourseIDs": [
+      "ME",
+      "CN"
+    ]
+  },
+  {
+    "Id": "25",
+    "Name": "Joela Georgeau",
+    "Email": "JoelaGeorgeau@ueh.edu.vn",
+    "PhoneNumber": "\u002B84 2282751313",
+    "Birthday": "3/22/2003",
+    "Gender": "Female",
+    "GPA": 2.58,
+    "DRL": 87,
+    "SchoolYear": "K49",
+    "ClassID": "IB002",
+    "DepartmentID": "1",
+    "CourseIDs": [
+      "OOP"
+    ]
+  },
+  {
+    "Id": "26",
+    "Name": "Harwell Daftor",
+    "Email": "HarwellDaftor@ueh.edu.vn",
+    "PhoneNumber": "\u002B84 9221975770",
+    "Birthday": "5/14/2004",
+    "Gender": "Male",
+    "GPA": 3.78,
+    "DRL": 100,
+    "SchoolYear": "K48",
+    "ClassID": "IB002",
+    "DepartmentID": "1",
+    "CourseIDs": [
+      "PEC",
+      "CN"
+    ]
+  },
+  {
+    "Id": "27",
+    "Name": "Beryle Scanes",
+    "Email": "BeryleScanes@ueh.edu.vn",
+    "PhoneNumber": "\u002B84 1847648678",
+    "Birthday": "11/27/2003",
+    "Gender": "Female",
+    "GPA": 3.65,
+    "DRL": 66,
+    "SchoolYear": "K49",
+    "ClassID": "IT001",
+    "DepartmentID": "2",
+    "CourseIDs": [
+      "STA",
+      "ME",
+      "PEC"
+    ]
+  },
+  {
+    "Id": "28",
+    "Name": "Clevie Raffeorty",
+    "Email": "ClevieRaffeorty@ueh.edu.vn",
+    "PhoneNumber": "\u002B84 8695903134",
+    "Birthday": "5/19/2004",
+    "Gender": "Male",
+    "GPA": 3.78,
+    "DRL": 52,
+    "SchoolYear": "K46",
+    "ClassID": "HR001",
+    "DepartmentID": "3",
+    "CourseIDs": [
+      "OOP",
+      "ME",
+      "PEC"
+    ]
+  },
+  {
+    "Id": "29",
+    "Name": "Clary Bowry",
+    "Email": "ClaryBowry@ueh.edu.vn",
+    "PhoneNumber": "\u002B84 5062771959",
+    "Birthday": "9/17/2004",
+    "Gender": "Female",
+    "GPA": 3.96,
+    "DRL": 89,
+    "SchoolYear": "K46",
+    "ClassID": "IB001",
+    "DepartmentID": "1",
+    "CourseIDs": [
+      "STA",
+      "CN"
+    ]
+  },
+  {
+    "Id": "30",
+    "Name": "Raychel Nerger",
+    "Email": "RaychelNerger@ueh.edu.vn",
+    "PhoneNumber": "\u002B84 6451393028",
+    "Birthday": "6/21/2003",
+    "Gender": "Female",
+    "GPA": 3.24,
+    "DRL": 80,
+    "SchoolYear": "K47",
+    "ClassID": "IB001",
+    "DepartmentID": "1",
+    "CourseIDs": [
+      "STA",
+      "ME",
+      "PEC"
+    ]
+  },
+  {
+    "Id": "31",
+    "Name": "Correna Siccombe",
+    "Email": "CorrenaSiccombe@ueh.edu.vn",
+    "PhoneNumber": "\u002B84 1132984059",
+    "Birthday": "10/16/2005",
+    "Gender": "Female",
+    "GPA": 3.71,
+    "DRL": 69,
+    "SchoolYear": "K49",
+    "ClassID": "HR001",
+    "DepartmentID": "3",
+    "CourseIDs": [
+      "CN"
+    ]
+  },
+  {
+    "Id": "32",
+    "Name": "Wes Moses",
+    "Email": "WesMoses@ueh.edu.vn",
+    "PhoneNumber": "\u002B84 8809370129",
+    "Birthday": "8/12/2005",
+    "Gender": "Male",
+    "GPA": 3.5,
+    "DRL": 62,
+    "SchoolYear": "K46",
+    "ClassID": "IT002",
+    "DepartmentID": "2",
+    "CourseIDs": [
+      "OOP",
+      "ME",
+      "PEC"
+    ]
+  },
+  {
+    "Id": "33",
+    "Name": "Valina Bowden",
+    "Email": "ValinaBowden@ueh.edu.vn",
+    "PhoneNumber": "\u002B84 4976174925",
+    "Birthday": "9/15/2006",
+    "Gender": "Female",
+    "GPA": 2.67,
+    "DRL": 52,
+    "SchoolYear": "K46",
+    "ClassID": "IT002",
+    "DepartmentID": "2",
+    "CourseIDs": [
+      "OOP",
+      "PEC"
+    ]
+  },
+  {
+    "Id": "34",
+    "Name": "El Priestnall",
+    "Email": "ElPriestnall@ueh.edu.vn",
+    "PhoneNumber": "\u002B84 7483347545",
+    "Birthday": "3/13/2006",
+    "Gender": "Male",
+    "GPA": 3.44,
+    "DRL": 74,
+    "SchoolYear": "K50",
+    "ClassID": "HR001",
+    "DepartmentID": "3",
+    "CourseIDs": [
+      "OOP",
+      "STA",
+      "PEC"
+    ]
+  },
+  {
+    "Id": "35",
+    "Name": "Kristen Tattersfield",
+    "Email": "KristenTattersfield@ueh.edu.vn",
+    "PhoneNumber": "\u002B84 7355953552",
+    "Birthday": "3/13/2005",
+    "Gender": "Female",
+    "GPA": 3.69,
+    "DRL": 81,
+    "SchoolYear": "K47",
+    "ClassID": "HR002",
+    "DepartmentID": "3",
+    "CourseIDs": [
+      "STA"
+    ]
+  },
+  {
+    "Id": "36",
+    "Name": "Bastian Smidmore",
+    "Email": "BastianSmidmore@ueh.edu.vn",
+    "PhoneNumber": "\u002B84 8956298436",
+    "Birthday": "8/17/2005",
+    "Gender": "Male",
+    "GPA": 2.82,
+    "DRL": 84,
+    "SchoolYear": "K50",
+    "ClassID": "IB002",
+    "DepartmentID": "1",
+    "CourseIDs": [
+      "STA",
+      "PEC",
+      "CN"
+    ]
+  },
+  {
+    "Id": "37",
+    "Name": "Dana Davidy",
+    "Email": "DanaDavidy@ueh.edu.vn",
+    "PhoneNumber": "\u002B84 1937175391",
+    "Birthday": "3/26/2004",
+    "Gender": "Female",
+    "GPA": 2.86,
+    "DRL": 70,
+    "SchoolYear": "K47",
+    "ClassID": "IB002",
+    "DepartmentID": "1",
+    "CourseIDs": [
+      "OOP",
+      "ME",
+      "PEC"
+    ]
+  },
+  {
+    "Id": "38",
+    "Name": "Hoebart Springall",
+    "Email": "HoebartSpringall@ueh.edu.vn",
+    "PhoneNumber": "\u002B84 2651016980",
+    "Birthday": "7/12/2006",
+    "Gender": "Male",
+    "GPA": 2.74,
+    "DRL": 85,
+    "SchoolYear": "K47",
+    "ClassID": "HR002",
+    "DepartmentID": "3",
+    "CourseIDs": [
+      "OOP",
+      "PEC",
+      "CN"
+    ]
+  },
+  {
+    "Id": "39",
+    "Name": "King Gillinghams",
+    "Email": "KingGillinghams@ueh.edu.vn",
+    "PhoneNumber": "\u002B84 2288330558",
+    "Birthday": "9/13/2005",
+    "Gender": "Male",
+    "GPA": 3.35,
+    "DRL": 66,
+    "SchoolYear": "K46",
+    "ClassID": "HR001",
+    "DepartmentID": "3",
+    "CourseIDs": [
+      "PEC",
+      "CN"
+    ]
+  },
+  {
+    "Id": "40",
+    "Name": "Alfie De Giorgi",
+    "Email": "AlfieDeGiorgi@ueh.edu.vn",
+    "PhoneNumber": "\u002B84 8841068303",
+    "Birthday": "6/26/2003",
+    "Gender": "Female",
+    "GPA": 3.78,
+    "DRL": 48,
+    "SchoolYear": "K50",
+    "ClassID": "IB001",
+    "DepartmentID": "1",
+    "CourseIDs": [
+      "STA",
+      "ME",
+      "CN"
+    ]
+  },
+  {
+    "Id": "41",
+    "Name": "Doralynne Soar",
+    "Email": "DoralynneSoar@ueh.edu.vn",
+    "PhoneNumber": "\u002B84 8249027435",
+    "Birthday": "7/12/2004",
+    "Gender": "Female",
+    "GPA": 3.35,
+    "DRL": 94,
+    "SchoolYear": "K47",
+    "ClassID": "HR001",
+    "DepartmentID": "3",
+    "CourseIDs": [
+      "OOP",
+      "PEC",
+      "CN"
+    ]
+  },
+  {
+    "Id": "42",
+    "Name": "Tab Von Oertzen",
+    "Email": "TabVonOertzen@ueh.edu.vn",
+    "PhoneNumber": "\u002B84 4729340551",
+    "Birthday": "10/21/2003",
+    "Gender": "Male",
+    "GPA": 3.66,
+    "DRL": 71,
+    "SchoolYear": "K49",
+    "ClassID": "IT002",
+    "DepartmentID": "2",
+    "CourseIDs": [
+      "ME",
+      "CN"
+    ]
+  },
+  {
+    "Id": "43",
+    "Name": "Andonis Simson",
+    "Email": "AndonisSimson@ueh.edu.vn",
+    "PhoneNumber": "\u002B84 6937696488",
+    "Birthday": "5/28/2003",
+    "Gender": "Male",
+    "GPA": 3.44,
+    "DRL": 74,
+    "SchoolYear": "K49",
+    "ClassID": "IB001",
+    "DepartmentID": "1",
+    "CourseIDs": [
+      "OOP"
+    ]
+  },
+  {
+    "Id": "44",
+    "Name": "Juli Gannicleff",
+    "Email": "JuliGannicleff@ueh.edu.vn",
+    "PhoneNumber": "\u002B84 6089709113",
+    "Birthday": "6/6/2005",
+    "Gender": "Female",
+    "GPA": 3.85,
+    "DRL": 49,
+    "SchoolYear": "K50",
+    "ClassID": "IB001",
+    "DepartmentID": "1",
+    "CourseIDs": [
+      "STA",
+      "PEC"
+    ]
+  },
+  {
+    "Id": "45",
+    "Name": "Evelin McAllaster",
+    "Email": "EvelinMcAllaster@ueh.edu.vn",
+    "PhoneNumber": "\u002B84 7230499916",
+    "Birthday": "9/13/2004",
+    "Gender": "Male",
+    "GPA": 3.35,
+    "DRL": 46,
+    "SchoolYear": "K46",
+    "ClassID": "HR001",
+    "DepartmentID": "3",
+    "CourseIDs": [
+      "OOP",
+      "ME",
+      "CN"
+    ]
+  },
+  {
+    "Id": "46",
+    "Name": "Jacqueline Stit",
+    "Email": "JacquelineStit@ueh.edu.vn",
+    "PhoneNumber": "\u002B84 4488182726",
+    "Birthday": "2/4/2005",
+    "Gender": "Female",
+    "GPA": 3.92,
+    "DRL": 65,
+    "SchoolYear": "K49",
+    "ClassID": "HR002",
+    "DepartmentID": "3",
+    "CourseIDs": [
+      "OOP",
+      "PEC"
+    ]
+  },
+  {
+    "Id": "47",
+    "Name": "Jo ann Paine",
+    "Email": "JoannPaine@ueh.edu.vn",
+    "PhoneNumber": "\u002B84 6977722150",
+    "Birthday": "6/22/2006",
+    "Gender": "Female",
+    "GPA": 3.78,
+    "DRL": 91,
+    "SchoolYear": "K47",
+    "ClassID": "IT002",
+    "DepartmentID": "2",
+    "CourseIDs": [
+      "STA"
+    ]
+  },
+  {
+    "Id": "48",
+    "Name": "Collete Gurden",
+    "Email": "ColleteGurden@ueh.edu.vn",
+    "PhoneNumber": "\u002B84 6839692607",
+    "Birthday": "11/14/2004",
+    "Gender": "Female",
+    "GPA": 2.77,
+    "DRL": 52,
+    "SchoolYear": "K48",
+    "ClassID": "IB002",
+    "DepartmentID": "1",
+    "CourseIDs": [
+      "PEC",
+      "CN"
+    ]
+  },
+  {
+    "Id": "49",
+    "Name": "Frasier Hincks",
+    "Email": "FrasierHincks@ueh.edu.vn",
+    "PhoneNumber": "\u002B84 8533760180",
+    "Birthday": "12/25/2003",
+    "Gender": "Male",
+    "GPA": 3.34,
+    "DRL": 82,
+    "SchoolYear": "K46",
+    "ClassID": "IB002",
+    "DepartmentID": "1",
+    "CourseIDs": [
+      "OOP",
+      "CN"
+    ]
+  },
+  {
+    "Id": "50",
+    "Name": "Adrea Cage",
+    "Email": "AdreaCage@ueh.edu.vn",
+    "PhoneNumber": "\u002B84 9660183965",
+    "Birthday": "4/23/2006",
+    "Gender": "Female",
+    "GPA": 3.93,
+    "DRL": 88,
+    "SchoolYear": "K48",
+    "ClassID": "IB002",
+    "DepartmentID": "1",
+    "CourseIDs": [
+      "OOP",
+      "ME"
+    ]
+  }
+]

@@ -1,0 +1,62 @@
+C:\Users\GiangDang\source\repos\OOP_Project\OOP_Project\obj\Debug\net8.0-windows\oop_winform.Form1.resources
+C:\Users\GiangDang\source\repos\OOP_Project\OOP_Project\obj\Debug\net8.0-windows\OOP_Project.Properties.Resources.resources
+C:\Users\GiangDang\source\repos\OOP_Project\OOP_Project\obj\Debug\net8.0-windows\OOP_Project.csproj.GenerateResource.cache
+C:\Users\GiangDang\source\repos\OOP_Project\OOP_Project\obj\Debug\net8.0-windows\OOP_Project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GiangDang\source\repos\OOP_Project\OOP_Project\obj\Debug\net8.0-windows\OOP_Project.AssemblyInfoInputs.cache
+C:\Users\GiangDang\source\repos\OOP_Project\OOP_Project\obj\Debug\net8.0-windows\OOP_Project.AssemblyInfo.cs
+C:\Users\GiangDang\source\repos\OOP_Project\OOP_Project\obj\Debug\net8.0-windows\OOP_Project.csproj.CoreCompileInputs.cache
+C:\Users\GiangDang\source\repos\OOP_Project\OOP_Project\bin\Debug\net8.0-windows\OOP_Project.exe
+C:\Users\GiangDang\source\repos\OOP_Project\OOP_Project\bin\Debug\net8.0-windows\OOP_Project.dll.config
+C:\Users\GiangDang\source\repos\OOP_Project\OOP_Project\bin\Debug\net8.0-windows\OOP_Project.deps.json
+C:\Users\GiangDang\source\repos\OOP_Project\OOP_Project\bin\Debug\net8.0-windows\OOP_Project.runtimeconfig.json
+C:\Users\GiangDang\source\repos\OOP_Project\OOP_Project\bin\Debug\net8.0-windows\OOP_Project.dll
+C:\Users\GiangDang\source\repos\OOP_Project\OOP_Project\bin\Debug\net8.0-windows\OOP_Project.pdb
+C:\Users\GiangDang\source\repos\OOP_Project\OOP_Project\obj\Debug\net8.0-windows\OOP_Project.dll
+C:\Users\GiangDang\source\repos\OOP_Project\OOP_Project\obj\Debug\net8.0-windows\refint\OOP_Project.dll
+C:\Users\GiangDang\source\repos\OOP_Project\OOP_Project\obj\Debug\net8.0-windows\OOP_Project.pdb
+C:\Users\GiangDang\source\repos\OOP_Project\OOP_Project\obj\Debug\net8.0-windows\OOP_Project.genruntimeconfig.cache
+C:\Users\GiangDang\source\repos\OOP_Project\OOP_Project\obj\Debug\net8.0-windows\ref\OOP_Project.dll
+C:\Users\GiangDang\source\repos\OOP_Project\OOP_Project\obj\Debug\net8.0-windows\QLSV_Win.Form2.resources
+C:\Users\GiangDang\source\repos\OOP_Project\OOP_Project\obj\Debug\net8.0-windows\OOP_Project.Form3.resources
+C:\Users\QUANG PHUC\Desktop\temp\withWF\OOP_Project\OOP_Project\bin\Debug\net8.0-windows\OOP_Project.exe
+C:\Users\QUANG PHUC\Desktop\temp\withWF\OOP_Project\OOP_Project\bin\Debug\net8.0-windows\OOP_Project.dll.config
+C:\Users\QUANG PHUC\Desktop\temp\withWF\OOP_Project\OOP_Project\bin\Debug\net8.0-windows\OOP_Project.deps.json
+C:\Users\QUANG PHUC\Desktop\temp\withWF\OOP_Project\OOP_Project\bin\Debug\net8.0-windows\OOP_Project.runtimeconfig.json
+C:\Users\QUANG PHUC\Desktop\temp\withWF\OOP_Project\OOP_Project\bin\Debug\net8.0-windows\OOP_Project.dll
+C:\Users\QUANG PHUC\Desktop\temp\withWF\OOP_Project\OOP_Project\bin\Debug\net8.0-windows\OOP_Project.pdb
+C:\Users\QUANG PHUC\Desktop\temp\withWF\OOP_Project\OOP_Project\obj\Debug\net8.0-windows\oop_winform.Form1.resources
+C:\Users\QUANG PHUC\Desktop\temp\withWF\OOP_Project\OOP_Project\obj\Debug\net8.0-windows\QLSV_Win.Form2.resources
+C:\Users\QUANG PHUC\Desktop\temp\withWF\OOP_Project\OOP_Project\obj\Debug\net8.0-windows\OOP_Project.Properties.Resources.resources
+C:\Users\QUANG PHUC\Desktop\temp\withWF\OOP_Project\OOP_Project\obj\Debug\net8.0-windows\OOP_Project.csproj.GenerateResource.cache
+C:\Users\QUANG PHUC\Desktop\temp\withWF\OOP_Project\OOP_Project\obj\Debug\net8.0-windows\OOP_Project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\QUANG PHUC\Desktop\temp\withWF\OOP_Project\OOP_Project\obj\Debug\net8.0-windows\OOP_Project.AssemblyInfoInputs.cache
+C:\Users\QUANG PHUC\Desktop\temp\withWF\OOP_Project\OOP_Project\obj\Debug\net8.0-windows\OOP_Project.AssemblyInfo.cs
+C:\Users\QUANG PHUC\Desktop\temp\withWF\OOP_Project\OOP_Project\obj\Debug\net8.0-windows\OOP_Project.csproj.CoreCompileInputs.cache
+C:\Users\QUANG PHUC\Desktop\temp\withWF\OOP_Project\OOP_Project\obj\Debug\net8.0-windows\OOP_Project.sourcelink.json
+C:\Users\QUANG PHUC\Desktop\temp\withWF\OOP_Project\OOP_Project\obj\Debug\net8.0-windows\OOP_Project.dll
+C:\Users\QUANG PHUC\Desktop\temp\withWF\OOP_Project\OOP_Project\obj\Debug\net8.0-windows\refint\OOP_Project.dll
+C:\Users\QUANG PHUC\Desktop\temp\withWF\OOP_Project\OOP_Project\obj\Debug\net8.0-windows\OOP_Project.pdb
+C:\Users\QUANG PHUC\Desktop\temp\withWF\OOP_Project\OOP_Project\obj\Debug\net8.0-windows\OOP_Project.genruntimeconfig.cache
+C:\Users\QUANG PHUC\Desktop\temp\withWF\OOP_Project\OOP_Project\obj\Debug\net8.0-windows\ref\OOP_Project.dll
+C:\Users\QUANG PHUC\Desktop\temp\withWF\OOP_Project\OOP_Project\obj\Debug\net8.0-windows\QLSV_Win.Form3.resources
+C:\Users\GiangDang\Source\Repos\Test\OOP_Project\OOP_Project\bin\Debug\net8.0-windows\OOP_Project.exe
+C:\Users\GiangDang\Source\Repos\Test\OOP_Project\OOP_Project\bin\Debug\net8.0-windows\OOP_Project.dll.config
+C:\Users\GiangDang\Source\Repos\Test\OOP_Project\OOP_Project\bin\Debug\net8.0-windows\OOP_Project.deps.json
+C:\Users\GiangDang\Source\Repos\Test\OOP_Project\OOP_Project\bin\Debug\net8.0-windows\OOP_Project.runtimeconfig.json
+C:\Users\GiangDang\Source\Repos\Test\OOP_Project\OOP_Project\bin\Debug\net8.0-windows\OOP_Project.dll
+C:\Users\GiangDang\Source\Repos\Test\OOP_Project\OOP_Project\bin\Debug\net8.0-windows\OOP_Project.pdb
+C:\Users\GiangDang\Source\Repos\Test\OOP_Project\OOP_Project\obj\Debug\net8.0-windows\oop_winform.Form1.resources
+C:\Users\GiangDang\Source\Repos\Test\OOP_Project\OOP_Project\obj\Debug\net8.0-windows\QLSV_Win.Form2.resources
+C:\Users\GiangDang\Source\Repos\Test\OOP_Project\OOP_Project\obj\Debug\net8.0-windows\QLSV_Win.Form3.resources
+C:\Users\GiangDang\Source\Repos\Test\OOP_Project\OOP_Project\obj\Debug\net8.0-windows\OOP_Project.Properties.Resources.resources
+C:\Users\GiangDang\Source\Repos\Test\OOP_Project\OOP_Project\obj\Debug\net8.0-windows\OOP_Project.csproj.GenerateResource.cache
+C:\Users\GiangDang\Source\Repos\Test\OOP_Project\OOP_Project\obj\Debug\net8.0-windows\OOP_Project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GiangDang\Source\Repos\Test\OOP_Project\OOP_Project\obj\Debug\net8.0-windows\OOP_Project.AssemblyInfoInputs.cache
+C:\Users\GiangDang\Source\Repos\Test\OOP_Project\OOP_Project\obj\Debug\net8.0-windows\OOP_Project.AssemblyInfo.cs
+C:\Users\GiangDang\Source\Repos\Test\OOP_Project\OOP_Project\obj\Debug\net8.0-windows\OOP_Project.csproj.CoreCompileInputs.cache
+C:\Users\GiangDang\Source\Repos\Test\OOP_Project\OOP_Project\obj\Debug\net8.0-windows\OOP_Project.sourcelink.json
+C:\Users\GiangDang\Source\Repos\Test\OOP_Project\OOP_Project\obj\Debug\net8.0-windows\OOP_Project.dll
+C:\Users\GiangDang\Source\Repos\Test\OOP_Project\OOP_Project\obj\Debug\net8.0-windows\refint\OOP_Project.dll
+C:\Users\GiangDang\Source\Repos\Test\OOP_Project\OOP_Project\obj\Debug\net8.0-windows\OOP_Project.pdb
+C:\Users\GiangDang\Source\Repos\Test\OOP_Project\OOP_Project\obj\Debug\net8.0-windows\OOP_Project.genruntimeconfig.cache
+C:\Users\GiangDang\Source\Repos\Test\OOP_Project\OOP_Project\obj\Debug\net8.0-windows\ref\OOP_Project.dll
